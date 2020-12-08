@@ -1,0 +1,71 @@
+10/09/2020 09:54:17 | Feed Money: $10, Current balance: $10
+10/09/2020 09:54:21 | Stackers A2 1.45, Current balance: $8.55
+10/09/2020 09:54:24 | Feed Money: $5, Current balance: $13.55
+10/09/2020 09:54:27 | Heavy C4 1.50, Current balance: $12.05
+10/09/2020 09:54:34 | Potato Crisps A1 3.05, Current balance: $9.00
+10/09/2020 09:58:57 | Feed Money: $10, Current balance: $10
+10/09/2020 09:59:01 | Triplemint D4 0.75, Current balance: $9.25
+10/09/2020 09:59:04 | Give Change: $Current balance: $9.25, Current balance: $0.00
+10/09/2020 10:01:25 | Feed Money: $10, Current balance: $10
+10/09/2020 10:01:29 | Potato Crisps A1 3.05, Current balance: $6.95
+10/09/2020 10:01:30 | Give Change: $6.95, Current balance: $0.00
+10/09/2020 10:02:36 | Feed Money: $10, Current balance: $10
+10/09/2020 10:02:41 | Little League Chew D2 $0.95, Current balance: $9.05
+10/09/2020 10:02:43 | Give Change: $9.05, Current balance: $0.00
+10/09/2020 10:46:44 | Feed Money: $10, Current balance: $10
+10/09/2020 10:47:07 | Give Change: $2.50, Current balance: $0.00
+10/09/2020 10:51:12 | Feed Money: $5, Current balance: $5
+10/09/2020 10:51:20 | Dr. Salt C2 $1.50, Current balance: $3.50
+10/09/2020 10:51:23 | Dr. Salt C2 $1.50, Current balance: $2.00
+10/09/2020 10:51:28 | Wonka Bar B3 $1.50, Current balance: $0.50
+10/09/2020 10:51:30 | Give Change: $0.50, Current balance: $0.00
+10/09/2020 10:54:33 | Feed Money: $10, Current balance: $10
+10/09/2020 10:55:23 | Give Change: $7.00, Current balance: $0.00
+10/09/2020 10:56:56 | Feed Money: $10, Current balance: $10
+10/09/2020 10:56:59 | Heavy C4 $1.50, Current balance: $8.50
+10/09/2020 10:57:02 | Heavy C4 $1.50, Current balance: $7.00
+10/09/2020 10:57:06 | Grain Waves A3 $2.75, Current balance: $4.25
+10/09/2020 10:57:08 | Give Change: $4.25, Current balance: $0.00
+10/09/2020 10:58:40 | Give Change: $0, Current balance: $0
+10/09/2020 10:58:48 | Give Change: $0, Current balance: $0
+10/09/2020 10:59:02 | Feed Money: $10, Current balance: $10
+10/09/2020 10:59:08 | Heavy C4 $1.50, Current balance: $8.50
+10/09/2020 10:59:11 | Heavy C4 $1.50, Current balance: $7.00
+10/09/2020 10:59:13 | Heavy C4 $1.50, Current balance: $5.50
+10/09/2020 10:59:15 | Heavy C4 $1.50, Current balance: $4.00
+10/09/2020 10:59:20 | Give Change: $4.00, Current balance: $0.00
+10/09/2020 10:59:29 | Feed Money: $5, Current balance: $5.00
+10/09/2020 10:59:41 | Heavy C4 $1.50, Current balance: $3.50
+10/09/2020 10:59:58 | Cola C1 $1.25, Current balance: $2.25
+10/09/2020 11:00:19 | Give Change: $2.25, Current balance: $0.00
+10/09/2020 14:59:01 | Give Change: $0, Current balance: $0
+10/09/2020 15:01:27 | Feed Money: $10, Current balance: $10
+10/09/2020 15:01:33 | U-Chews D1 $0.85, Current balance: $9.15
+10/09/2020 15:01:34 | Give Change: $9.15, Current balance: $0.00
+10/09/2020 15:01:49 | Feed Money: $10, Current balance: $10
+10/09/2020 15:01:52 | U-Chews D1 $0.85, Current balance: $9.15
+10/09/2020 15:01:53 | Give Change: $9.15, Current balance: $0.00
+10/09/2020 15:29:05 | Feed Money: $5, Current balance: $5
+10/09/2020 15:30:08 | Cloud Popcorn A4 $3.65, Current balance: $1.35
+10/09/2020 15:31:24 | U-Chews D1 $0.85, Current balance: $0.50
+10/09/2020 15:31:34 | Feed Money: $5, Current balance: $5.50
+10/09/2020 15:31:59 | U-Chews D1 $0.85, Current balance: $4.65
+10/09/2020 15:32:01 | U-Chews D1 $0.85, Current balance: $3.80
+10/09/2020 15:32:04 | U-Chews D1 $0.85, Current balance: $2.95
+10/09/2020 15:32:08 | U-Chews D1 $0.85, Current balance: $2.10
+10/09/2020 15:32:23 | Give Change: $2.10, Current balance: $0.00
+10/09/2020 15:32:58 | Feed Money: $1, Current balance: $1.00
+10/09/2020 15:33:11 | Give Change: $1.00, Current balance: $0.00
+10/09/2020 15:45:24 | Feed Money: $10, Current balance: $10
+10/09/2020 15:45:28 | Potato Crisps A1 $3.05, Current balance: $6.95
+10/09/2020 15:45:32 | Potato Crisps A1 $3.05, Current balance: $3.90
+10/09/2020 15:45:33 | Give Change: $3.90, Current balance: $0.00
+10/09/2020 15:51:22 | Feed Money: $1, Current balance: $1
+10/09/2020 15:51:28 | U-Chews D1 $0.85, Current balance: $0.15
+10/09/2020 15:51:30 | Give Change: $0.15, Current balance: $0.00
+10/09/2020 15:52:52 | Feed Money: $1, Current balance: $1
+10/09/2020 15:52:54 | Give Change: $1, Current balance: $0.00
+10/09/2020 16:00:48 | Feed Money: $1, Current balance: $1
+10/09/2020 16:24:13 | Feed Money: $5, Current balance: $5
+10/09/2020 16:24:16 | Chiclets D3 $0.75, Current balance: $4.25
+10/09/2020 16:24:17 | Give Change: $4.25, Current balance: $0.00

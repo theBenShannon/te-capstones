@@ -1,0 +1,6 @@
+Chips | 0
+Gum | 0
+Candy | 0
+Drink | 0
+
+**TOTAL SALES** $0
